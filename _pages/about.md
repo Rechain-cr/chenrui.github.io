@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently working as a formulation development engineer at Aidea Pharma  in Jiangsu, China. 
+I specialize in drug delivery, innovative drug discovery, 3D printed drugs and other research. If you are looking for any kind of academic collaboration, please feel free to email me at szylianran@163.com.
+If you want to know more about me, here is my CV. 
+
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -47,8 +50,16 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2023.06*, Master, School of Traditional Chinese Medicine , China Pharmaceutical University .
+                       M.S. in New Dosage Forms and Technologies (GPA: 3.96 / 4.00, Ranked 4th)
+                       I study in the [GZ lab](https://www.bilibili.com/video/BV1UP411G71P/?spm_id_from=333.337.search-card.all.click&vd_source=ae8ea3afa19f5ec07e1321d2017a1356) , which is a big friendly family, and my mentors are Yuan Gao , Jianjun Zhang , Shai Qian  and Yuanfeng Wei .
+
+- *2016.09 - 2020.06*, Undergraduate, School of Pharmacy , Shandong University of Traditional Chinese Medicine .
+                       B.Sc. in Pharmaceutical Engineering (GPA: 3.20 / 4.00, Ranked 3rd)
+                       guaranteed recommendation for postgraduate studies.
+
+- *2013.09 - 2016.06*, Yanggu No.1 High School, Liaocheng
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
