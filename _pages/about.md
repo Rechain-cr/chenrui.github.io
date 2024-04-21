@@ -51,9 +51,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2020.09 - 2023.06*, Master, School of Traditional Chinese Medicine , China Pharmaceutical University .
-                       M.S. in New Dosage Forms and Technologies (GPA: 3.96 / 4.00, Ranked 4th)
 
-   I study in the [GZ lab](https://www.bilibili.com/video/BV1UP411G71P/?spm_id_from=333.337.search-card.all.click&vd_source=ae8ea3afa19f5ec07e1321d2017a1356) , which is a big friendly family, and my mentors are Yuan Gao , Jianjun Zhang , Shai Qian  and Yuanfeng Wei .
+                        M.S. in New Dosage Forms and Technologies (GPA: 3.96 / 4.00, Ranked 4th)
+
+                        I study in the [GZ lab](https://www.bilibili.com/video/BV1UP411G71P/?spm_id_from=333.337.search-card.all.click&vd_source=ae8ea3afa19f5ec07e1321d2017a1356) , which is a big friendly family, and my mentors are Yuan Gao , Jianjun Zhang , Shai Qian  and Yuanfeng Wei .
 
 - *2016.09 - 2020.06*, Undergraduate, School of Pharmacy , Shandong University of Traditional Chinese Medicine .
                        B.Sc. in Pharmaceutical Engineering (GPA: 3.20 / 4.00, Ranked 3rd)
