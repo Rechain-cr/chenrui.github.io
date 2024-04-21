@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as a formulation development engineer at Aidea Pharma  in Jiangsu, China. 
+I am currently working as a formulation development engineer at [Aidea Pharma](https://aidea.com.cn/)  in Jiangsu, China. 
 I specialize in drug delivery, innovative drug discovery, 3D printed drugs and other research. If you are looking for any kind of academic collaboration, please feel free to email me at szylianran@163.com.
 If you want to know more about me, here is my CV. 
 
@@ -46,21 +46,46 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *10/2021* The First Prize, CPU Scholarship (Top 5%)
+
+- *12/2020* Outstanding Research Poster, Jiangsu Graduate TCM Innovation Forum
+
+- *12/2020* Team First Prize, the Jiangsu Province Graduate Industrial Innovation Competition
+
+- *09/2020* The First Prize, CPU Freshman Graduate Student 
+
+- *06/2020* Shandong Province Outstanding Undergraduate Student Award (Top 1%) 
+
+- *2016-2019* Consecutive 3-Year SDUTCM First Prize Scholarship Winner (Top 2%)
+
+- *2016-2019* Consecutive 3-Year SDUTCM Excellent Student Cadre Winner
+
+- *09/2019* Provincial Team Silver Prize, “Internet+” Innovation and Entrepreneurship Competition
+
+- *09/2019* Outstanding Student, SDUTCM “Si Yuan Cup” Scholarships (Top 1%) 
+
+- *04/2019* Second Prize, the 1st SDUTCM Tai Chi Competition
+
+- *12/2018* Gold Prize, SDUTCM Outstanding Student Scholarship (Top 1%) 
+
+- *12/2018* Provincial Team Third Prize, the 5th Shandong Tech Innovation Contest
+
+- *11/2017* Outstanding Work, Communist Youth League of China Social Practice Competition
+
+- *11/2016* Second Prize, the 16th SDUTCM Brush Calligraphy Contest
 
 # 📖 Educations
-- *2020.09 - 2023.06*, Master, School of Traditional Chinese Medicine , China Pharmaceutical University .
+- *2020.09 - 2023.06*, Master, [School of Traditional Chinese Medicine](https://zyxy.cpu.edu.cn/) , [China Pharmaceutical University](https://www.cpu.edu.cn/) .
 
   M.S. in New Dosage Forms and Technologies (GPA: 3.96 / 4.00, Ranked 4th)
 
-  I study in the [GZ lab](https://www.bilibili.com/video/BV1UP411G71P/?spm_id_from=333.337.search-card.all.click&vd_source=ae8ea3afa19f5ec07e1321d2017a1356) , which is a big friendly family, and my mentors are Yuan Gao , Jianjun Zhang , Shai Qian  and Yuanfeng Wei .
+  I study in the [GZ lab](https://www.bilibili.com/video/BV1UP411G71P/?spm_id_from=333.337.search-card.all.click&vd_source=ae8ea3afa19f5ec07e1321d2017a1356) , which is a big friendly family, and my mentors are [Yuan Gao](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/3D8781FBE4186D182BD0FC68776F2490) , [Jianjun Zhang](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/02182478A3C5932F224A276105C378E0 ) , [Shai Qian](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/050FEF684651B429BBB1F1A0C667BB5A)  and [Yuanfeng Wei](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/E598FC022E9301FE080997084F2AC620) .
 
-- *2016.09 - 2020.06*, Undergraduate, School of Pharmacy , Shandong University of Traditional Chinese Medicine .
+- *2016.09 - 2020.06*, Undergraduate, [School of Pharmacy](https://sps.sdutcm.edu.cn/) , [Shandong University of Traditional Chinese Medicine](https://www.sdutcm.edu.cn/) .
 
   B.Sc. in Pharmaceutical Engineering (GPA: 3.20 / 4.00, Ranked 3rd)
 
-  guaranteed recommendation for postgraduate studies.
+  Guaranteed recommendation for postgraduate studies.
 
 - *2013.09 - 2016.06*, Yanggu No.1 High School, Liaocheng
 
