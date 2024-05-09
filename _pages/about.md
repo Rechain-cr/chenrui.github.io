@@ -95,19 +95,63 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 👩‍🔬 Research experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/6.GPJ' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Building the 4th Generation 3D Printer for Drug Printing with HME Technology**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Anran li**, Zhijun Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Project**
+- This HDM technology printer was built for the first time to fulfill the idea of hybrid printing with multiple technologies.
+  
+- Combined tablets with "rocket separation" release behavior were prepared using this machine.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/5.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Building the 3rd Generation 3D Printer for Drug Printing in SSE Technology**
+
+**Anran li**, Zhijun Wang
+
+**Project**
+- Designed and built third-generation printers in order to print more materials.
+  
+- This printer is interchangeable with different kinds of nozzles, so it can support both SSE and FDM printing technologies, but it can only carry one nozzle.
+  
+- We used this printer to study the printing parameters of some medicinal excipients, and completed some printing studies of gels and herbal infusions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/4.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Building the 2nd Generation 3D Printer for Drug Printing in FDM Technology**
+
+**Anran li**, Siyuan Liu
+
+**Project**
+- In order to solve the problem of drug-carrying wire breakage in the first-generation printers, the second-generation printers were constructed.
+  
+- OP tablets were developed using this printer, significantly reduced volume, solved patient swallowing difficulties, and matched the dissolution profile of the original research tablet.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2021</div><img src='images/3.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Building the First Generation of 3D Printer for Drug Printing in FDM Technology**
+
+**Anran li**
+
+**Project**
+- Over the summer, created the lab's first printer capable of printing drugs.
+  
+- This printer can be coupled with HEM technology to print tablets with precise structures.
+</div>
+</div>
 
 # 💻 Extracurricular activity
 - *2018.08 - Present*, Shandong Candlelight Volunteer Association Member
