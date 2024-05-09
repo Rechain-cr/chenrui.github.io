@@ -95,7 +95,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 👩‍🔬 Research experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/6.GPJ' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/6.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Building the 4th Generation 3D Printer for Drug Printing with HME Technology**
@@ -150,6 +150,22 @@ My research interest includes neural machine translation and computer vision. I 
 - Over the summer, created the lab's first printer capable of printing drugs.
   
 - This printer can be coupled with HEM technology to print tablets with precise structures.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2021</div><img src='images/2.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Study of An Anticancer Drug Preparation**
+
+Zhilin Duan, Jingwen Zhang, **Anran li**, Anjiang Hu, Xueming Li
+
+**Project**
+- Participated in R&D pilot scale-up and methodological validation of quality standards.
+  
+- Completed the stability studies of in-house samples compared to the reference formulations.
+  
+- Wrote a portion of the drug registration documents.
 </div>
 </div>
 
