@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/11.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/11.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Hybrid Deposition Modeling Technology for Preparing Rocket-separation 3D-print Tablet with Greater Compliance for the Treatment of Helicobacter Pylori InfectionRecognition
@@ -56,7 +56,7 @@ Hybrid Deposition Modeling Technology for Preparing Rocket-separation 3D-print T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/9.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/9.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Recent Advances of Pharmaceutical 3D Printing Extrusion Molding Technology, Acta Pharm Sin.58 (2023) 2640-2655.](https://www.yxxb.com.cn/aps/cn/article/doi/10.16438/j.0513-4870.2023-0112)
@@ -68,10 +68,10 @@ Ke Zhang, Daoyi Zheng, **Anran li**, Siyuan Liu, Zhijun Wang, Chen Yu, Jiali Yu,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Study on the Transdermal Properties of Chinese Medicine Plasters [J]. China Yearbook of Traditional Chinese Medicine (Academic Volume), 2022, 17 (06): 426.
+Study on the Transdermal Properties of Chinese Medicine Plasters [J]. China Yearbook of Traditional Chinese Medicine (Academic Volume), 2022, 17 (06): 425-426.
 
 Maoli Huang, **Anran li**, Shuai Qian
 
@@ -80,7 +80,7 @@ Maoli Huang, **Anran li**, Shuai Qian
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/8.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Crystal engineering technology to improve the drug-forming properties of traditional Chinese medicine [J]. China Yearbook of Traditional Chinese Medicine (Academic Volume), 22022, 17 (06): 428-429.
@@ -92,7 +92,7 @@ Huina Liu, **Anran li**, Shuai Qian
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2021</div><img src='images/7.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2021</div><img src='images/7.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearbook of Traditional Chinese Medicine (Academic Volume), 2021, 16 (05): 423-424.
