@@ -30,26 +30,81 @@ My research interest includes neural machine translation and computer vision. I 
 
 <span class='anchor' id='News'></span>
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 ACC201 tablets researched by Jiangsu Aidi Chemical Pharmaceuticals R&D Department successfully passed bioequivalence experiments. 
+- *2024.04*: &nbsp;🎉🎉 ADC202 tablets developed by Jiangsu Aidi Chemical Formulation R&D Department successfully completed process scale-up production.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/11.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Hybrid Deposition Modeling Technology for Preparing Rocket-separation 3D-print Tablet with Greater Compliance for the Treatment of Helicobacter Pylori InfectionRecognition
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**paper**:
+- **Anran li** (Lead Author, In Submission)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**patent**：
+- [3D Printed Combined Tablet for Treating Helicobacter Pylori Infection: CN 116019776 A[P]. 2023-04-28.](https://www.webofscience.com/wos/alldb/full-record/DIIDW:202348080W)
+- Yuan Gao, **Anran li**, Ke Zhang, Zhijun Wang, Jianjun Zhang, Shuai Qian, Yuanfeng Wei
+
+**Project**
+- First proposed Hybrid Deposition Modeling (HDM) technology
+
+- Prepared 3D-printed combination tablets realize four drugs in one tablet with complex release behavior suitable for actual clinical needs.
+
+- 3D printed combination tablets will minimize the chance of missed or wrong dosing, while greatly enhance patient compliance.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/9.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
+[Recent Advances of Pharmaceutical 3D Printing Extrusion Molding Technology, Acta Pharm Sin.58 (2023) 2640-2655.](https://www.yxxb.com.cn/aps/cn/article/doi/10.16438/j.0513-4870.2023-0112)
+
+Ke Zhang, Daoyi Zheng, **Anran li**, Siyuan Liu, Zhijun Wang, Chen Yu, Jiali Yu, Yuan Gao, Jianjun Zhang
+
+**Project**
+- An overview of pharmacological research progress in 3D printing extrusion molding technology from six aspects: extrusion molding mechanism, equipment, auxiliary materials, design, application and industrialization prospect. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Study on the Transdermal Properties of Chinese Medicine Plasters [J]. China Yearbook of Traditional Chinese Medicine (Academic Volume), 2022, 17 (06): 426.
+
+Maoli Huang, **Anran li**, Shuai Qian
+
+**Project**
+- Literature review and analysis of active ingredients, matrix types, and quality evaluation of Chinese medicine plasters. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/8.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Crystal engineering technology to improve the drug-forming properties of traditional Chinese medicine [J]. China Yearbook of Traditional Chinese Medicine (Academic Volume), 22022, 17 (06): 428-429.
+
+Huina Liu, **Anran li**, Shuai Qian
+
+**Project**
+- Crystal engineering, as a technical means that can change the crystal structure and intermolecular interactions of drugs at the molecular level, can effectively optimize the physicochemical properties of active ingredients in traditional Chinese medicine and improve in vivo behavior and drug-forming properties. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2021</div><img src='images/7.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearbook of Traditional Chinese Medicine (Academic Volume), 2021, 16 (05): 423-424.
+
+**Anran li**, Hengqing Zhu, Shuai Qian
+
+**Project**
+- Literature review and analysis of the development history, standardization and industrial production, and quality control of Chinese medicine formula granules. 
+</div>
+</div>
+  
+# 🎖️ Honors and Awards 
 - *10/2021* The First Prize, CPU Scholarship (Top 5%)
 
 - *12/2020* Outstanding Research Poster, Jiangsu Graduate TCM Innovation Forum
