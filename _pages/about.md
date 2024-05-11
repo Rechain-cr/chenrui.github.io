@@ -17,16 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as a formulation development engineer at [Aidea Pharma](https://aidea.com.cn/)  in Jiangsu, China. 
+Welcome to Anran li's academic homepage！
+
+I graduated from [China Pharmaceutical University](https://www.cpu.edu.cn/)，and I am currently working as a formulation development engineer at [Aidea Pharma](https://aidea.com.cn/)  in Jiangsu, China. 
 
 I specialize in drug delivery, innovative drug discovery, 3D printed drugs and other research. 
 
 If you are looking for any kind of academic collaboration, please feel free to email me at szylianran@163.com.
 
 If you want to know more about me, here is my CV. 
-
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <span class='anchor' id='News'></span>
 # 🔥 News
