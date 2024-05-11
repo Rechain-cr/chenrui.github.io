@@ -38,13 +38,13 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/11.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hybrid Deposition Modeling Technology for Preparing Rocket-separation 3D-print Tablet with Greater Compliance for the Treatment of Helicobacter Pylori InfectionRecognition
+Hybrid Deposition Modeling Technology for Preparing Rocket-separation 3D-print Tablet with Greater Compliance for the Treatment of Helicobacter Pylori InfectionRecognition (In Submission)
 
 **paper**:
-- **Anran li** (Lead Author, In Submission)
+- **Anran li**, Ke Zhang, Zhijun Wang, Siyuan Liu, Xiaofei Li, Jianbing Ren, Jianjun Zhang, Yunyi Shi, Yuan Gao, Shuai Qian, Yuanfeng Wei
 
 **patent**：
-- [3D Printed Combined Tablet for Treating Helicobacter Pylori Infection: CN 116019776 A[P]. 2023-04-28.](https://www.webofscience.com/wos/alldb/full-record/DIIDW:202348080W)
+- [3D Printed Combined Tablet for Treating Helicobacter Pylori Infection: CN 116019776. 2023-04-28.](https://www.webofscience.com/wos/alldb/full-record/DIIDW:202348080W)
 - Yuan Gao, **Anran li**, Ke Zhang, Zhijun Wang, Jianjun Zhang, Shuai Qian, Yuanfeng Wei
 
 **Project**
@@ -53,6 +53,34 @@ Hybrid Deposition Modeling Technology for Preparing Rocket-separation 3D-print T
 - Prepared 3D-printed combination tablets realize four drugs in one tablet with complex release behavior suitable for actual clinical needs.
 
 - 3D printed combination tablets will minimize the chance of missed or wrong dosing, while greatly enhance patient compliance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/13.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+The Pharmaceutical and Computational Fluid Dynamics Study of 3D Printed OP Tablets (Co-author, In Submission)
+
+Siyuan Liu, Ke Zhang, **Anran li**, Zhijun Wang, Xiaofei Li, Jianbing Ren, Jianjun Zhang, Yunyi Shi, Yuan Gao, Shuai Qian, Yuanfeng Wei
+
+**Project**
+- The aim of this study was to prepare OP 3D-printed tablets using 3D-printing technology to achieve consistent in vitro release with the reference formulation, as well as to examine the key process parameters during the 3D-printing process.
+  
+- Dissolution morphology revealed that the 3D printed tablets dissolved mainly in surface dissolution, dissolution at multiple layers and side pore enlargement, which led to faster dissolution release and demonstrated the superiority of the model design.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/14.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mechanistic Study on Transformation of Coamorphous Baicalein-Nicotinamide to Its Cocrystal Form, J. Pharm. Sci. 112 (2023) 513–524.](https://webofscience.clarivate.cn/wos/alldb/full-record/WOS:000923155000001)
+
+Fei Ding, Wei Cao, Renze Wang, Ning Wang, **Anran li**, Yuanfeng Wei, Shuai Qian, Jianjun Zhang, Yuan Gao, Zunting Pang
+
+**Project**
+- In this paper, BCS II drug baicalein (BAI) along with nicotinamide (NIC) were prepared into a single homogeneous coamorphous system with a single transition temperature at 42.5 °C.
+  
+- This research not only discovered the mechanism of transformation from co-amorphous BAI-NIC to cocrystal form, but also provided an unusual method for cocrystal preparation from its co-amorphous form.
 </div>
 </div>
 
