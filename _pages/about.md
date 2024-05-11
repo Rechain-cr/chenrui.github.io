@@ -32,6 +32,7 @@ If you want to know more about me, here is my CV.
 - *2024.05*: &nbsp;🎉🎉 ACC201 tablets researched by Jiangsu Aidi Chemical Pharmaceuticals R&D Department successfully passed bioequivalence experiments. 
 - *2024.04*: &nbsp;🎉🎉 ADC202 tablets developed by Jiangsu Aidi Chemical Formulation R&D Department successfully completed process scale-up production.
 
+<span class='anchor' id='Publications'></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/11.jpg' alt="sym" width="100%"></div></div>
@@ -130,7 +131,8 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 - Literature review and analysis of the development history, standardization and industrial production, and quality control of Chinese medicine formula granules. 
 </div>
 </div>
-  
+
+<span class='anchor' id='Honors and Awards'></span>
 # 🎖️ Honors and Awards 
 - *10/2021* The First Prize, CPU Scholarship (Top 5%)
 
@@ -160,6 +162,7 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 
 - *11/2016* Second Prize, the 16th SDUTCM Brush Calligraphy Contest
 
+<span class='anchor' id='Educations'></span>
 # 📖 Educations
 - *2020.09 - 2023.06*, Master, [School of Traditional Chinese Medicine](https://zyxy.cpu.edu.cn/) , [China Pharmaceutical University](https://www.cpu.edu.cn/) .
 
@@ -175,7 +178,7 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 
 - *2013.09 - 2016.06*, Yanggu No.1 High School, Liaocheng
 
-
+<span class='anchor' id='Research experience'></span>
 # 👩‍🔬 Research experience
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/6.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -251,6 +254,7 @@ Zhilin Duan, Jingwen Zhang, **Anran li**, Anjiang Hu, Xueming Li
 </div>
 </div>
 
+<span class='anchor' id='Extracurricular activity'></span>
 # 💻 Extracurricular activity
 - *2018.08 - Present*, Shandong Candlelight Volunteer Association Member
   
