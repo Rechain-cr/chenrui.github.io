@@ -128,7 +128,8 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 
 **Project**
 - Literature review and analysis of the development history, standardization and industrial production, and quality control of Chinese medicine formula granules. 
-
+</div>
+</div>
   
 # 🎖️ Honors and Awards 
 - *10/2021* The First Prize, CPU Scholarship (Top 5%)
@@ -247,7 +248,8 @@ Zhilin Duan, Jingwen Zhang, **Anran li**, Anjiang Hu, Xueming Li
 - Completed the stability studies of in-house samples compared to the reference formulations.
   
 - Wrote a portion of the drug registration documents.
-
+</div>
+</div>
 
 # 💻 Extracurricular activity
 - *2018.08 - Present*, Shandong Candlelight Volunteer Association Member
