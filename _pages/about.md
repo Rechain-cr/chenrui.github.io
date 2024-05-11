@@ -70,7 +70,7 @@ Siyuan Liu, Ke Zhang, **Anran li**, Zhijun Wang, Xiaofei Li, Jianbing Ren, Jianj
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/9.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/15.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Recent Advances of Pharmaceutical 3D Printing Extrusion Molding Technology, Acta Pharm Sin.58 (2023) 2640-2655.](https://www.yxxb.com.cn/aps/cn/article/doi/10.16438/j.0513-4870.2023-0112)
