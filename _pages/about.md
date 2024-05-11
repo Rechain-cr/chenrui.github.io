@@ -70,6 +70,18 @@ Siyuan Liu, Ke Zhang, **Anran li**, Zhijun Wang, Xiaofei Li, Jianbing Ren, Jianj
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/9.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Recent Advances of Pharmaceutical 3D Printing Extrusion Molding Technology, Acta Pharm Sin.58 (2023) 2640-2655.](https://www.yxxb.com.cn/aps/cn/article/doi/10.16438/j.0513-4870.2023-0112)
+
+Ke Zhang, Daoyi Zheng, **Anran li**, Siyuan Liu, Zhijun Wang, Chen Yu, Jiali Yu, Yuan Gao, Jianjun Zhang
+
+**Project**
+- An overview of pharmacological research progress in 3D printing extrusion molding technology from six aspects: extrusion molding mechanism, equipment, auxiliary materials, design, application and industrialization prospect. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/14.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,18 +93,6 @@ Fei Ding, Wei Cao, Renze Wang, Ning Wang, **Anran li**, Yuanfeng Wei, Shuai Qian
 - In this paper, BCS II drug baicalein (BAI) along with nicotinamide (NIC) were prepared into a single homogeneous coamorphous system with a single transition temperature at 42.5 °C.
   
 - This research not only discovered the mechanism of transformation from co-amorphous BAI-NIC to cocrystal form, but also provided an unusual method for cocrystal preparation from its co-amorphous form.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2023</div><img src='images/9.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Recent Advances of Pharmaceutical 3D Printing Extrusion Molding Technology, Acta Pharm Sin.58 (2023) 2640-2655.](https://www.yxxb.com.cn/aps/cn/article/doi/10.16438/j.0513-4870.2023-0112)
-
-Ke Zhang, Daoyi Zheng, **Anran li**, Siyuan Liu, Zhijun Wang, Chen Yu, Jiali Yu, Yuan Gao, Jianjun Zhang
-
-**Project**
-- An overview of pharmacological research progress in 3D printing extrusion molding technology from six aspects: extrusion molding mechanism, equipment, auxiliary materials, design, application and industrialization prospect. 
 </div>
 </div>
 
