@@ -132,7 +132,7 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 </div>
 </div>
 
-<span class='anchor' id='Honors and Awards'></span>
+<span class='anchor' id='Honors-and-awards'></span>
 # 🎖️ Honors and Awards 
 - *10/2021* The First Prize, CPU Scholarship (Top 5%)
 
