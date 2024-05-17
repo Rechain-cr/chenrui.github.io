@@ -253,7 +253,7 @@ Zhilin Duan, Jingwen Zhang, **Anran li**, Anjiang Hu, Xueming Li
 </div>
 </div>
 
-<span class='anchor' id='Extracurricular activity'></span>
+<span class='anchor' id='Extracurricular_activity'></span>
 # 💻 Extracurricular activity
 - *2018.08 - Present*, Shandong Candlelight Volunteer Association Member
   
