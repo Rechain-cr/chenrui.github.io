@@ -25,7 +25,7 @@ I specialize in drug delivery, innovative drug discovery, 3D printed drugs and o
 
 If you are looking for any kind of academic collaboration, please feel free to email me at szylianran@163.com.
 
-If you want to know more about me, here is my [CV](/CV.pdf). [jpg](../screenshot.png)
+If you want to know more about me, here is my [CV](/CV.pdf).
 
 <span class='anchor' id='News'></span>
 # 🔥 News
