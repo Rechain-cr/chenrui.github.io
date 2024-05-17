@@ -131,7 +131,7 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 - Literature review and analysis of the development history, standardization and industrial production, and quality control of Chinese medicine formula granules. 
 </div>
 </div>
-<span class='anchor' id='honors_and_awards'></span>
+<span class='anchor' id='honors'></span>
 # 🎖️ Honors and Awards 
 - *10/2021* The First Prize, CPU Scholarship (Top 5%)
 
