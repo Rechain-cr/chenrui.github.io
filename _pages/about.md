@@ -177,7 +177,7 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 
 - *2013.09 - 2016.06*, Yanggu No.1 High School, Liaocheng
 
-<span class='anchor' id='Research experience'></span>
+<span class='anchor' id='Research_experience'></span>
 # 👩‍🔬 Research experience
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GZ Lab 2022</div><img src='images/6.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
