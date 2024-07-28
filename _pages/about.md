@@ -29,7 +29,7 @@ If you want to know more about me, here is my [CV](/CV.pdf).
 
 <span class='anchor' id='News'></span>
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 ACC201 tablets researched by Jiangsu Aidi Chemical Pharmaceuticals R&D Department successfully passed bioequivalence experiments. 
+- *2024.05*: &nbsp;🎉🎉 ADC201 tablets researched by Jiangsu Aidi Chemical Pharmaceuticals R&D Department successfully passed bioequivalence experiments. 
 - *2024.04*: &nbsp;🎉🎉 ADC202 tablets developed by Jiangsu Aidi Chemical Formulation R&D Department successfully completed process scale-up production.
 
 <span class='anchor' id='Publications'></span>
@@ -167,7 +167,7 @@ Research on Formulated Granules of Traditional Chinese Medicine [J]. China Yearb
 
   M.S. in New Dosage Forms and Technologies (GPA: 3.96 / 4.00, Ranked 4th)
 
-  I study in the [GZ lab](https://www.bilibili.com/video/BV1UP411G71P/?spm_id_from=333.337.search-card.all.click&vd_source=ae8ea3afa19f5ec07e1321d2017a1356) , which is a big friendly family, and my mentors are [Yuan Gao](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/3D8781FBE4186D182BD0FC68776F2490) , [Jianjun Zhang](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/02182478A3C5932F224A276105C378E0 ) , [Shai Qian](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/050FEF684651B429BBB1F1A0C667BB5A)  and [Yuanfeng Wei](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/E598FC022E9301FE080997084F2AC620) .
+  I study in the [GZ lab](https://www.bilibili.com/video/BV1UP411G71P/?spm_id_from=333.337.search-card.all.click&vd_source=ae8ea3afa19f5ec07e1321d2017a1356) , which is a big friendly family, and my mentors are [Yuan Gao](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/3D8781FBE4186D182BD0FC68776F2490) , [Jianjun Zhang](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/02182478A3C5932F224A276105C378E0 ) , [Shuai Qian](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/050FEF684651B429BBB1F1A0C667BB5A)  and [Yuanfeng Wei](https://ygl.cpu.edu.cn/gmis5/dsfc/dsfcgrxx/E598FC022E9301FE080997084F2AC620) .
 
 - *2016.09 - 2020.06*, Undergraduate, [School of Pharmacy](https://sps.sdutcm.edu.cn/) , [Shandong University of Traditional Chinese Medicine](https://www.sdutcm.edu.cn/) .
 
