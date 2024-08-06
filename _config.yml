@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Anran Li"
-description              : "Drug delivery is magic！"
+title                    : "Rui Chen"
+description              : "Science is cool！"
 repository               : "https://rechain-cr.github.io/chenrui.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "anranli@stu.cpu.edu.cn"
+  email            : "chenrui.cpu@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
