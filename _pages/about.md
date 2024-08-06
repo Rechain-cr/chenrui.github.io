@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to Anran li's academic homepage！
+Welcome to Anran li's academic homepage
 
 I graduated from [China Pharmaceutical University](https://www.cpu.edu.cn/)，and I am currently working as a formulation development engineer at [Aidea Pharma](https://aidea.com.cn/)  in Jiangsu, China. 
 
